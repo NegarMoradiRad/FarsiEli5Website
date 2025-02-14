@@ -1,13 +1,13 @@
-About Website:
+## About Website
 It is a website that tries to explain topics in a way that a 5-year-old can understand. In its infrastructure, it uses an artificial intelligence model.
 
 This is a Next.js project bootstrapped with [`create-plasmic-app`](https://www.npmjs.com/package/create-plasmic-app).
 
 ## Getting Started
-
 1-
+```bash
 npm install
-
+```
 2-run the development server:
 
 ```bash
